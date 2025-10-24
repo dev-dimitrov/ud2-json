@@ -1,0 +1,17 @@
+[ {
+  "nombre" : "carlitos",
+  "edad" : 21,
+  "expediente" : "1111"
+}, {
+  "nombre" : "menganito",
+  "edad" : 18,
+  "expediente" : "2222"
+}, {
+  "nombre" : "fermin",
+  "edad" : 24,
+  "expediente" : "3333"
+}, {
+  "nombre" : "julito",
+  "edad" : 23,
+  "expediente" : "4444"
+} ]
